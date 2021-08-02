@@ -1,0 +1,2 @@
+# testhost
+sample /etc/hosts
